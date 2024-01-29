@@ -95,6 +95,7 @@ impl Engine {
         CHKDEPTH                             => 0x69
         CHKSIGNS                             => 0xF9, 0x11
         CHKSIGNU                             => 0xF9, 0x10
+        ECRECOVER                            => 0xF9, 0x12
         CHKTUPLE                             => 0x6F, 0x30
         CMP                                  => 0xBF
         COMMA                                => 0x6F, 0x8C
